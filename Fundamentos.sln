@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.37516.0
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11626.88 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana3", "Semana1\Semana3.pyproj", "{B728E374-729B-47C0-AB8E-86E983CAB0E0}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana6", "Semana6\Semana6.pyproj", "{43FC4A22-27FE-4121-A667-3F7B32732804}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana7", "Semana7\Semana7.pyproj", "{BAAD4F65-669E-499B-AAFF-0DB2A0AC7DA1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana8", "Semana8\Semana8.pyproj", "{06A2FF00-2BF0-4C38-85D1-874F0108A9C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,8 @@ Global
 		{43FC4A22-27FE-4121-A667-3F7B32732804}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAAD4F65-669E-499B-AAFF-0DB2A0AC7DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BAAD4F65-669E-499B-AAFF-0DB2A0AC7DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A2FF00-2BF0-4C38-85D1-874F0108A9C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A2FF00-2BF0-4C38-85D1-874F0108A9C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
